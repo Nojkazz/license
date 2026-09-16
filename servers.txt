@@ -8,3 +8,6 @@
 # 1.2.3.4                       # example: all products
 # 1.2.3.4  adminmenu            # example: adminmenu only
 # 1.2.3.4  adminmenu sandeliai  # example: both, written explicitly
+
+# Servers
+185.80.130.113 adminmenu sandeliai
