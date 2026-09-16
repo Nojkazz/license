@@ -1,0 +1,10 @@
+# CoastRP license list
+# One server per line:  <public IPv4>  [product ...]
+#   - no product      = every CoastRP product is allowed on that IP
+#   - product names   = adminmenu, sandeliai
+# To REVOKE a server: delete its line (or put # in front of it) and commit.
+# The server locks itself within 5 minutes, no restart needed.
+
+# 1.2.3.4                       # example: all products
+# 1.2.3.4  adminmenu            # example: adminmenu only
+# 1.2.3.4  adminmenu sandeliai  # example: both, written explicitly
